@@ -94,4 +94,4 @@ function display_statistics_tel_table($data) { ?>
 <?php endforeach ?>
     </tbody>
 </table>
-<?}
+<?php }
